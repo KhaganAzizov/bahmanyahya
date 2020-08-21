@@ -66,6 +66,23 @@ h1:hover span {
     text-align: center;
     padding-top: 5px;
 }
+.btn{
+    position: absolute;
+    top: 5px;
+    right: 125px;
+    border: none;
+    border-radius: 4px;
+    width: 145px;
+    height: 30px;
+    color: white;
+    background-color: #FF6C0A;
+    font-weight: 800;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 5px;
+}
 #examlinks{
     text-align: center;
 }
